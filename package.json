@@ -1,0 +1,30 @@
+{
+  "name": "@kszongic/truncate-lines-cli",
+  "version": "1.0.0",
+  "description": "Truncate each line of stdin/file to a maximum width. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "truncate-lines": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "truncate",
+    "lines",
+    "width",
+    "cli",
+    "text",
+    "cut",
+    "trim",
+    "column"
+  ],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/truncate-lines-cli"
+  },
+  "homepage": "https://github.com/kszongic/truncate-lines-cli#readme",
+  "funding": "https://github.com/sponsors/kszongic"
+}
